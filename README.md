@@ -1,2 +1,5 @@
 # hello-ai
-begin
+
+Hi, guys!
+
+I want to creat a emotional ai.
